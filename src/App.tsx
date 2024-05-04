@@ -8,6 +8,7 @@ const BasicLayout = lazy(() => import("./layout"));
 
 export function authLoader() {
   return { isAdmin: true };
+  //for 1 time 
 }
 
 const App: React.FC = () => {
