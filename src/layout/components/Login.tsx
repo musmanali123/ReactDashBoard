@@ -56,6 +56,7 @@ const Login = () => {
           submitText:'Login'
         }
       }}
+      // chnage picture accordingly
         backgroundImageUrl="https://gw.alipayobjects.com/zos/rmsportal/FfdJeJRQWjEeGTpqgBKj.png"
         onFinish={onFinish as any}
         title="Admin DashBoard"
